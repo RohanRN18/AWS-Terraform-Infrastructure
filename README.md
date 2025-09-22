@@ -44,3 +44,12 @@ The **AWS Infrastructure Project using Terraform** is designed to provision a ba
 - **EC2 Instance**: Serves as a web server, configured using User Data.
 - **Security Groups**: Control inbound and outbound access (SSH + HTTP).
 
+   <img width="750" height="500" alt="Architechture flow" src="https://github.com/user-attachments/assets/d0b79744-4858-4326-a140-06c92975324a" />
+
+
+
+
+
+
+
+
