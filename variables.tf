@@ -7,7 +7,7 @@ variable "instance_type" {
 }
 
 variable "ami_id" {
-    default = "ami-01b6d88af12965bb6"  
+    default = "ami-1234567890"  
 }
 
 variable "ec2_key" {
@@ -18,4 +18,5 @@ variable "ec2_key" {
 variable "allow_ssh_cidr" {
     description = "Allow CIDR to SSH"
     default = "0.0.0.0/0"
+
 }
